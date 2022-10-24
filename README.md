@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Seok Gyu Jeong** 
+⚡**Seok Gyu Jeong**⚡
 
-I am a student who is studying passionately to become a data engineer someday. After discharging from the military, I've been with data engineering since i came across statistics. 
+I am a student who is studying passionately to become a data engineer someday.😄 After discharging from the military, I've been with data engineering since i came across statistics. 
 
 I am currently studying SQL tuning and data warehouse. 
 
