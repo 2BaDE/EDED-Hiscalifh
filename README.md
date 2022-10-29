@@ -28,10 +28,11 @@ I am currently studying SQL tuning and data warehouse.
 
 
 💬 Certificate 
-- Distribution Manager(Grade II, 2020.12.02) 
-- TOEIC(880, 2020.12.20) 
-- SQL Developer(SQLD, 2022.06.24) 
-- Bigdata Analysis Engineer(BAE, 2022.07.15) 
+- Distribution Manager(Korea Chamber of Commerce and Industry, 2020.12.02) 
+- TOEIC(ETS, 2020.12.20) 
+- Artificial Intelligence Startup Instructor(Korea Artificial Intelligence Association, 2021.08.06) 
+- SQL Developer(Korea Data Agency, 2022.06.24) 
+- Bigdata Analysis Engineer(Korea Data Agency, 2022.07.15) 
 
 
 💬 What i am intersted in 
