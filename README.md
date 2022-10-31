@@ -36,10 +36,10 @@ I am currently studying SQL Tuning and Data Warehouse.
 
 
 💬 What i am intersted in 
-- Data Engineering
-- SQL Tuning 
+- Data Engineering 
 - Data Optimization 
-- Hadoop 
+- Certificate : SQL Professor(2023.03.11) 
+- Certificate : DAsP(Data Archtecture semi Professor, 2023.03.18) 
 
 
 💬 Contact 
