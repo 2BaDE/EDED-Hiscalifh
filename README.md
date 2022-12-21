@@ -39,7 +39,7 @@ I am currently studying SQL Tuning and Data Warehouse.
 - Data Engineering 
 - Data Optimization 
 - Certificate : SQL Professionals(2023.03.11) 
-- Certificate : DAsP(Data Archtecture semi Professor, 2023.03.18) 
+- Certificate : DAsP(Data Archtecture semi Professionals, 2023.03.18) 
 
 
 💬 Contact 
