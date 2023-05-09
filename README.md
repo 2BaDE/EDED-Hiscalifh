@@ -24,7 +24,7 @@ I am currently studying SQL Tuning and Data Warehouse.
 
 
 💬 University
-- Pusan National University(2017.03.01 ~ 2023.02.21) 
+- Pusan National University(2017.03.01 ~ 2024.02.21) 
 
 
 💬 Certificate 
@@ -33,13 +33,16 @@ I am currently studying SQL Tuning and Data Warehouse.
 - Artificial Intelligence Startup Instructor(Korea Artificial Intelligence Association, 2021.08.06) 
 - SQL Developer(Korea Data Agency, 2022.06.24) 
 - Bigdata Analysis Engineer(Korea Data Agency, 2022.07.15) 
+- Engineer Information Processing(Ministry of Science and ICT, 2023.06.09) 
 
 
 💬 What i am intersted in 
 - Data Engineering 
-- Data Optimization 
-- Certificate : SQL Professionals(2023.03.11) 
-- Certificate : DAsP(Data Archtecture semi Professionals, 2023.03.18) 
+- SQL Querying, Tuning, Databases 
+- Language : Python, JAVA 
+- Datastructure and Algorithms 
+- Certificate : SQL Professional(2023.09.09) 
+- Certificate : TOEIC(2023.07.xx), OPIC(2023.06.xx) 
 
 
 💬 Contact 
