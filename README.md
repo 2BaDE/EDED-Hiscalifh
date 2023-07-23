@@ -39,14 +39,13 @@ I am currently studying SQL Tuning and Data Warehouse.
 💬 What i am intersted in 
 - Data Engineering 
 - SQL Querying, Tuning, Databases 
-- Language : Python, JAVA 
-- Datastructure and Algorithms 
-- Certificate : SQL Professional(2023.09.09) 
-- Certificate : TOEIC(2023.07.xx), OPIC(2023.06.xx) 
+- Language : Python
+- Datastructures and ALgorithms
+- Datascience and Visualization
+- Certifications : SQLP, TOEIC, OPIC
 
 
 💬 Contact 
 - wjdtjrrb0503@gmail.com 
-- wjdtjrrb05@naver.com 
-- https://see-the-forest.tistory.com
+- wjdtjrrb05@naver.com
 
